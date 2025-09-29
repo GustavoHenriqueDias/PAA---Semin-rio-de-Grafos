@@ -25,7 +25,7 @@ Colab](https://colab.research.google.com/drive/15O9jS2rtSqZSYgWfXS3q2DoX8rqmlS9i
 ## 📑 Slides da Apresentação
 
 A versão em PDF dos slides está disponível aqui:\
-📂 [Slides -- TSP](https://github.com/GustavoHenriqueDias/PAA---Semin-rio-de-Grafos/blob/main/Problema%20do%20Caixeiro%20Viajante.pdf)
+📂 [Slides -- TSP](tsp_apresentacao.pdf.pdf)
 
 ------------------------------------------------------------------------
 
