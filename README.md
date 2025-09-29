@@ -25,7 +25,7 @@ Colab](https://colab.research.google.com/drive/15O9jS2rtSqZSYgWfXS3q2DoX8rqmlS9i
 ## 📑 Slides da Apresentação
 
 A versão em PDF dos slides está disponível aqui:\
-📂 [Slides -- TSP](tsp_apresentacao.pdf)
+📂 [Slides -- TSP](Problema do Caixeiro Viajante.pdf)
 
 ------------------------------------------------------------------------
 
