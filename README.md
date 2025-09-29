@@ -18,7 +18,7 @@ disciplina **Projeto e Análise de Algoritmos**, cujo tema sorteado foi o
 
 Clique no link abaixo para acessar e executar o notebook:\
 🔗 [Notebook no Google
-Colab](https://colab.research.google.com/drive/1ObqWZvCpecDOzhFRc_3ba4mq5M3jbhOR?usp=sharing)
+Colab](https://colab.research.google.com/drive/15O9jS2rtSqZSYgWfXS3q2DoX8rqmlS9i?usp=sharing)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ A versão em PDF dos slides está disponível aqui:\
 ------------------------------------------------------------------------
 
 ## 🎬 Vídeo da Apresentação
-▶️ [Assista no YouTube](https://youtube.com/seu_video_aqui)
+▶️ [Assista no YouTube](https://youtu.be/dp1zhzCbcnY)
 
 ------------------------------------------------------------------------
 
