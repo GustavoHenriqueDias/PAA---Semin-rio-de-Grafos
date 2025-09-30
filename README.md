@@ -26,6 +26,7 @@ Colab](https://colab.research.google.com/drive/15O9jS2rtSqZSYgWfXS3q2DoX8rqmlS9i
 
 A versão em PDF dos slides está disponível aqui:\
 📂 [Slides -- TSP](tsp_apresentacao.pdf.pdf)
+📂 [Link Canvas](https://www.canva.com/design/DAG0TmizDRE/NkUxl0I6OCX5UFFmP9et0A/view?utm_content=DAG0TmizDRE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h297372a50d)
 
 ------------------------------------------------------------------------
 
